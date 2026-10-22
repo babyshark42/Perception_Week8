@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.~lock.*#
+
+# ros bag เก็บไว้ในเครื่องเท่านั้น (ใหญ่เกิน GitHub)
+bags/
+*.db3
+*.docx

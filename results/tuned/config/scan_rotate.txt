@@ -1,0 +1,1 @@
+31640 python3 /home/art/week8/tools/scan_rotate.py --deg 1.8

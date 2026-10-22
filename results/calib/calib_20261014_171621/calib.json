@@ -1,0 +1,9 @@
+{
+ "n_segments": 18,
+ "n_straight": 14,
+ "scan_yaw_applied_deg": 0.0,
+ "real_over_odom": 0.99279,
+ "scan_yaw_deg": 1.833,
+ "scan_yaw_sd_deg": 0.479,
+ "rot_real_over_odom": 1.007
+}
